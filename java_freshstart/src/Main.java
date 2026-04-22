@@ -1,4 +1,4 @@
-   class Main{
+   class TernaryOperation{
        static void main(String[] args) {
            // ternary operation on all data types
            // //condition ? value_if_true : value_if_false;
@@ -21,6 +21,8 @@
            String str1="Apple", str2="orange";
            String bigString = (str1.length()>str2.length())?str1:str2;
            System.out.println(bigString);
+
+
        }
    }
             // ternary operation on all data types
